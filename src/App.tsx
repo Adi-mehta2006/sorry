@@ -111,8 +111,8 @@
 //       <div className={`max-w-4xl mx-auto space-y-8 ${showContent ? 'animate-fade-in' : 'opacity-0'}`}>
 //         <div className="text-center">
 //           <h1 className="text-4xl font-bold text-pink-600 mb-2 font-comic">
-//             Hey Srushti! 🐻
-//           </h1>
+//             Hey Anangsha! 🐻
+//           </h1>  
 //           <p className="text-gray-600 font-comic">Click anywhere to spread some love! ❤️</p>
 //         </div>
 
@@ -228,7 +228,7 @@
 //                   <p>Shruu From now on, I promise to make it up to you. I'll do everything in my power to stay in touch, no matter what.... Whether I'm in a different city, country, or even just busy with work or school, you'll always be my priority.😶‍🌫️ I'll make sure to text  you regularly, so you never feel ignored or forgotten again.💯😭</p>
 
 //                   <p>You mean everything to me, and I'm committed to showing you that 😭😭. Can you please forgive me and give me another chance mam? 🥺 I promise to be more thoughtful and considerate from now on.
-//                     SORRYYYYYYY SHRUUUUUUUU</p>
+//                     SORRYYYYYYY </p>
 
 //                   <p className="text-right font-bold mt-4">
 //                     Yours,<br />
@@ -514,7 +514,7 @@ function App() {
           </div>
           <div className="bg-blue-50 p-6 rounded-lg border-2 border-dashed border-blue-300">
             <p className="text-gray-700 italic leading-relaxed font-comic text-center text-lg">
-              I'm sorry for the silent hours,<br />
+              I'm sorry for the angry hours,<br />
               For the moments I let you down,<br />
               Regret fills every passing minute,<br />
               In every lost and lonely sound.<br /><br />
@@ -572,17 +572,17 @@ function App() {
                 </div>
                 <div className="space-y-3 font-comic text-gray-700 leading-relaxed">
                   <p>
-                    I want to offer my sincerest apologies for the ways I have let you down. I know my absence and silence have hurt you, and for that, I am deeply sorry.
+                    I want to offer my sincerest apologies for the ways I have let you down. I know I mean nothing to you now, but all I want is a second chance. I am deeply sorry.
                   </p>
                   <p>
-                    I regret not being there when you needed me most and for the moments lost due to my thoughtlessness. Your feelings matter to me, and I am committed to making things right.
+                    I regret saying all those mean and illogical things, I hope I would have never said that . Your feelings matter to me(jo abhi nahi hai), and I am committed to making things right.
                   </p>
                   <p>
-                    Please forgive me for my mistakes. I promise to learn, to grow, and to always cherish our bond. Let this apology be the first step toward healing and rebuilding the trust we once shared.
+                    Please forgive me for my mistakes. I promise to learn, to grow, and to always cherish our bond. Let this apology be the first step toward healing and rebuilding the bond we once shared. Dekh yaar mai yaha jada nhi bol sakta word limit h, but bas itna bolna chahta hu that thora mai try krta hu thora tu try kar, ham fix kar lenge ye. Ye life badi choti hai aur mujhe tere sath bohot time spend krna hai, chal na saath me buddhe hot hai, maaf krde yaar chal firse shuru karte hai.
                   </p>
                   <p className="text-right font-bold mt-4">
                     Yours sincerely,<br />
-                    Kuchupuchuuuu
+                    poootaaatoooo
                   </p>
                   <div className="text-center mt-3">
                     <span className="text-xs text-gray-500">P.S. Your forgiveness means the world to me.</span>
