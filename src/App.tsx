@@ -479,7 +479,7 @@ function App() {
           <div className="comic-panel bg-white p-6 rounded-lg shadow-lg transform hover:scale-105 transition-transform">
             <div className="comic-speech-bubble mb-4">
               <p className="font-comic text-lg text-gray-800">
-                I know I should not have done that, and I’m truly sorry...
+               I know I should not have done that, and I’m truly sorry...
               </p>
             </div>
             <img
