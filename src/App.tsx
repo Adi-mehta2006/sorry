@@ -479,7 +479,7 @@ function App() {
           <div className="comic-panel bg-white p-6 rounded-lg shadow-lg transform hover:scale-105 transition-transform">
             <div className="comic-speech-bubble mb-4">
               <p className="font-comic text-lg text-gray-800">
-                I know I’ve been distant, and I’m truly sorry...
+                I know I should not have done that, and I’m truly sorry...
               </p>
             </div>
             <img
@@ -578,7 +578,7 @@ function App() {
                     I regret saying all those mean and illogical things, I hope I would have never said that . Your feelings matter to me(jo abhi nahi hai), and I am committed to making things right.
                   </p>
                   <p>
-                    Please forgive me for my mistakes. I promise to learn, to grow, and to always cherish our bond. Let this apology be the first step toward healing and rebuilding the bond we once shared. Dekh yaar mai yaha jada nhi bol sakta word limit h, but bas itna bolna chahta hu that thora mai try krta hu thora tu try kar, ham fix kar lenge ye. Ye life badi choti hai aur mujhe tere sath bohot time spend krna hai, chal na saath me buddhe hot hai, maaf krde yaar chal firse shuru karte hai.
+                    Please forgive me for my mistakes. I promise to learn, to grow, and to always cherish our bond. Let this apology be the first step toward healing and rebuilding the bond we once shared. Dekh yaar mai yaha jada nhi bol sakta word limit h, but bas itna bolna chahta hu that thora mai try krta hu thora tu try kar, ham fix kar lenge ye. Ye life badi choti hai aur mujhe tere sath bohot time spend krna hai, chal na saath me buddhe hote hai, maaf krde yaar chal firse shuru karte hai.
                   </p>
                   <p className="text-right font-bold mt-4">
                     Yours sincerely,<br />
